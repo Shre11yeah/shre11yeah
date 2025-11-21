@@ -1,5 +1,5 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/000/677/302/original/abstract-technology-banner-background.jpg)
-<h1 align="center">Hi 👋, I'm Shreya R. Bangale</h1>
+<h1 align="center">👋 Hi, I'm Shreya — yes, I talk to Python more than people.</h1>
 <h3 align="center">I wrangle data so you don’t have to cry later.</h3>
 <img align="right" alt="coding" width="400" src="https://media.istockphoto.com/id/1224500457/photo/programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg?s=170667a&w=0&k=20&c=qW7X_WhA9tVI-XxMc63mIo4N95VCxdQDO3U9Atw5g0s=">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shre11yeah&label=Profile%20views&color=0e75b6&style=flat" alt="shre11yeah" /> </p>
